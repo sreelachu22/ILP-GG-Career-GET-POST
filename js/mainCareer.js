@@ -7,7 +7,7 @@ async function fetchData() {
     const data = await response.json();
     console.log(data);
     const users = [];
-    data.branches.forEach((element) => {
+    data.users.forEach((element) => {
       users.push(element);
       console.log(users);
     });
