@@ -6,7 +6,6 @@
   box-sizing: border-box;
 }
 body {
-  font-family: monospace;
   background-color: aliceblue;
   position: relative;
 }
@@ -206,9 +205,6 @@ body {
   width: 700px;
   margin-left: 90px;
   background-image: url(image\ 17.png);
-}
-
-.docgrp {
 }
 
 .whygg li {
