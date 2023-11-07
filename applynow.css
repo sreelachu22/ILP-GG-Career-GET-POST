@@ -1,0 +1,48 @@
+.top-content{
+    display: flex;
+}
+
+.top-header{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#content{
+    margin-right: 0px;
+    padding-right: 0px;
+}
+
+.qualification{
+    margin-left: 175px;
+}
+
+.experience{
+    margin-left: 175px;
+}
+
+.content-h{
+    text-align: left;
+}
+
+.apply-section{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#input-field{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+    margin-right: 20px;
+}
+
+.btn{
+    border: 1px solid rgb(32, 189, 165);
+    background-color: rgb(32, 189, 165);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    padding-right: 40px;
+    padding-left: 40px;
+    border-radius: 5px;
+}
