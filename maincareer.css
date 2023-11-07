@@ -1,0 +1,42 @@
+.fetch-box {
+  /* display: flex; */
+  position: relative;
+  align-items: center;
+  height: 130px;
+  border: 1px solid white;
+  border-radius: 10px;
+  background-color: white;
+  font-style: normal;
+  margin-bottom: 50px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+    rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+  width: 80%;
+  margin-left: 160px;
+  padding-top: 20px;
+}
+.edit-button {
+  position: absolute;
+  /* float: right; */
+  margin-top: -20px;
+  /* margin-bottom: 100px; */
+  margin-left: 900px;
+  color: white;
+  background-color: skyblue;
+  border: 2px solid skyblue;
+  border-radius: 3px;
+  padding: 5px;
+  text-decoration: none;
+  width: 80px;
+}
+.fetch-box p {
+  line-height: 1.5px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  margin-top: 20px;
+  padding-left: 40px;
+}
+.fetch-box h3 {
+  text-align: left;
+  padding-left: 40px;
+}
